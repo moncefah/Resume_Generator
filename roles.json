@@ -1,0 +1,57 @@
+{
+  "Java Backend Developer": {
+    "1": "Java",
+    "2": "Spring Boot",
+    "3": "Spring Security",
+    "4": "Hibernate/JPA",
+    "5": "REST APIs",
+    "6": "SQL",
+    "7": "PostgreSQL",
+    "8": "Kafka",
+    "9": "Docker",
+    "10": "JUnit",
+    "11": "Git",
+    "12": "CI/CD",
+    "13": "Microservices"
+  },
+  "Full Stack Developer": {
+    "1": "JavaScript",
+    "2": "TypeScript",
+    "3": "React",
+    "4": "Angular",
+    "5": "Node.js",
+    "6": "Java",
+    "7": "Spring Boot",
+    "8": "REST APIs",
+    "9": "SQL",
+    "10": "Docker",
+    "11": "Git"
+  },
+  "DevOps Engineer": {
+    "1": "Linux",
+    "2": "Docker",
+    "3": "Kubernetes",
+    "4": "Terraform",
+    "5": "AWS",
+    "6": "Azure",
+    "7": "GitHub Actions",
+    "8": "Jenkins",
+    "9": "CI/CD",
+    "10": "Python",
+    "11": "Bash",
+    "12": "Monitoring"
+  },
+  "Software Engineer": {
+    "1": "Python",
+    "2": "Java",
+    "3": "C++",
+    "4": "Git",
+    "5": "SQL",
+    "6": "REST APIs",
+    "7": "Testing",
+    "8": "Docker",
+    "9": "Algorithms",
+    "10": "Data Structures",
+    "11": "CI/CD"
+  }
+}
